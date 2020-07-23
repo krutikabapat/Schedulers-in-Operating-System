@@ -4,3 +4,6 @@
 3. Round Robin  
 4. HRRN  
 
+## References:    
+
+1. https://www.geeksforgeeks.org/process-schedulers-in-operating-system/    
